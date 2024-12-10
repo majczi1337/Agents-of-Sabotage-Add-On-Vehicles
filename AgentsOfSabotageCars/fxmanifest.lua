@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
+author 'majczi'
 files {
 	'common/caraddoncontentunlocks.meta',
 	'common/carcols.meta',
